@@ -1,4 +1,4 @@
-# Comadnos utilicados para docker con amazon aws cli y borrar vault's de S3 glacier
+# Comandos utilicados para docker con amazon aws cli y borrar vault's de S3 glacier
 
 > Configurar las credenciales
 
